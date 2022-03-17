@@ -1,0 +1,9 @@
+C:\Users\HP\source\repos\SNgame\SNgame\bin\Debug\SNgame.exe
+C:\Users\HP\source\repos\SNgame\SNgame\bin\Debug\SNgame.pdb
+C:\Users\HP\source\repos\SNgame\SNgame\obj\Debug\SNgame.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\SNgame\SNgame\obj\Debug\SNgame.Form1.resources
+C:\Users\HP\source\repos\SNgame\SNgame\obj\Debug\SNgame.Properties.Resources.resources
+C:\Users\HP\source\repos\SNgame\SNgame\obj\Debug\SNgame.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\SNgame\SNgame\obj\Debug\SNgame.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\SNgame\SNgame\obj\Debug\SNgame.exe
+C:\Users\HP\source\repos\SNgame\SNgame\obj\Debug\SNgame.pdb
